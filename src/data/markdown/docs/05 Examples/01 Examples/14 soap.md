@@ -6,6 +6,8 @@ excerpt: 'Load Testing SOAP API.'
 Although k6 doesn't have any built-in APIs for working with SOAP or XML data in general, you
 can still easily load test a SOAP-based API by crafting SOAP messages and using the HTTP request APIs.
 
+How to extract data from xml response -- ??
+
 ## Making SOAP requests
 
 <CodeGroup labels={["soap-example.js"]} lineNumbers={[true]}>
